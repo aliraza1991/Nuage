@@ -1,3 +1,3 @@
 # Nuage
 command
-python index.py <file_path>
+python index.py <txt_file_path>
